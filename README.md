@@ -26,6 +26,6 @@ Here are some ideas to get you started:
   UI design | UX design 
   <br>
   <br>
-  <a href="https://www.behance.net/ваш-профиль" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.behance.net/pashakarim" target="_blank" rel="noopener noreferrer">
   <img src="https://images.icon-icons.com/2972/PNG/512/behance_logo_icon_186873.png" alt="Behance" width="30" style="vertical-align: middle; margin-left: 8px;" />
 </div>
