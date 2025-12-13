@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://i.ibb.co/1CVsBH2/Pablo-Main.jpg" width="100"/>
+  <img src="https://i.ibb.co/1CVsBH2/Pablo-Main.jpg" width="1000"/>
 </div>
