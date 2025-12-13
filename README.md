@@ -16,9 +16,16 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://i.postimg.cc/zBswmtsj/Frame-9.jpg" width="1500"/>
 </div>
-
+<br>
 <div id="header" align="center">
-  🔭 Currently exploring:
-  JavaScript | Python | React | SQL | Docker |
-  <img src="https://images.icon-icons.com/2972/PNG/512/behance_logo_icon_186873.png" width="200"/>
+  🔭 <b> Currently exploring: </b> <br>
+  C++ | Java | Python | SQL  <br>
+  <br>
+  👨‍💻 <b> Have work experience: </b> <br>
+  HTML | CSS | JavaScript <br>
+  UI design | UX design 
+  <br>
+  <br>
+  <a href="https://www.behance.net/ваш-профиль" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.icon-icons.com/2972/PNG/512/behance_logo_icon_186873.png" alt="Behance" width="30" style="vertical-align: middle; margin-left: 8px;" />
 </div>
