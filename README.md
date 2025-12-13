@@ -3,7 +3,7 @@
 -->
 
 <div id="header" align="center">
-  <img src="https://i.postimg.cc/zBswmtsj/Frame-9.jpg" width="1350"/>
+  <img src="https://i.postimg.cc/PJyTBxJC/Frame-9-(1).jpg" width="1350"/>
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 <p>HTML | CSS | JavaScript<br>UI design | UX design</p>
 
 <a href="https://www.behance.net/pashakarim" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.postimg.cc/PJyTBxJC/Frame-9-(1).jpg" alt="Behance" width="30" style="vertical-align: middle; margin-left: 8px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="Behance" width="30" style="vertical-align: middle; margin-left: 8px;" />
 </a>
 
 </div>
