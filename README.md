@@ -6,7 +6,6 @@
   <img src="https://i.postimg.cc/zBswmtsj/Frame-9.jpg" width="1350"/>
 </div>
 
-<br>
 <div align="center">
 
 <h3>🔭 Currently exploring:</h2>
