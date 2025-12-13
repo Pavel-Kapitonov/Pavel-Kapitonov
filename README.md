@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://i.postimg.cc/zBswmtsj/Frame-9.jpg" width="1350"/>
 </div>
 <br>
-<div id="header" align="center">
+<div id="header" align="center" style="font-size:40px;">
   🔭 <b> Currently exploring: </b> <br>
   C++ | Java | Python | SQL  <br>
   <br>
