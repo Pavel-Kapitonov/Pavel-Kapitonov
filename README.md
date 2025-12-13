@@ -8,10 +8,10 @@
 
 <div align="center">
 
-<h3>🔭 Currently exploring:</h2>
+<h2>🔭 Currently exploring:</h2>
 <p>C++ | Java | Python | SQL</p>
 
-<h3>👨‍💻 Have work experience:</h2>
+<h2>👨‍💻 Have work experience:</h2>
 <p>HTML | CSS | JavaScript<br>UI design | UX design</p>
 
 <a href="https://www.behance.net/pashakarim" target="_blank" rel="noopener noreferrer">
