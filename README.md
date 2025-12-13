@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://i.postimg.cc/zBswmtsj/Frame-9.jpg" width="1500"/>
 </div>
+
+<div id="header" align="center">
+  🔭 Currently exploring:
+  JavaScript | Python | React | SQL | Docker |
+</div>
