@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://i.postimg.cc/zBswmtsj/Frame-9.jpg" width="1500"/>
+  <img src="https://i.postimg.cc/zBswmtsj/Frame-9.jpg" width="1350"/>
 </div>
 <br>
 <div id="header" align="center">
