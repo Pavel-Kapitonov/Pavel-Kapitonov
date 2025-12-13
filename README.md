@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   🔭 Currently exploring:
   JavaScript | Python | React | SQL | Docker |
+  <img src="https://images.icon-icons.com/2972/PNG/512/behance_logo_icon_186873.png" width="200"/>
 </div>
