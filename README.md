@@ -31,8 +31,7 @@
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_linux.png?raw=true" width="20" valign="middle"/> Администрирование Linux | Компьютерные сети (IP, TCP, UDP, HTTP) | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_figma.png?raw=true" width="20" valign="middle"/> UX/UI | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true" width="20" valign="middle"/> Git |
 | :--- | :--- | :--- | :--- |
 <br>
-**Contact:** **`pavel@gmail.com`**
-<b>Связаться со мной:</b> <code>pavel@gmail.com</code>
+<b>Связь:</b> <code>pavel@gmail.com</code>
 
 <!--
 <a href="https://www.behance.net/pashakarim" target="_blank" rel="noopener noreferrer">
