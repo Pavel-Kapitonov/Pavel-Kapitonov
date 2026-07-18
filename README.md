@@ -17,9 +17,10 @@
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true" width="45" valign="middle"/> <font size="50"><b>Next.js</b></font> | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" width="45" valign="middle"/> <font size="4"><b>HTML</b></font> | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true" width="45" valign="middle"/> <font size="4"><b>CSS</b></font> | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" width="45" valign="middle"/> <font size="4"><b>JavaScript</b></font> |
 | :--- | :--- | :--- | :--- |
 
+<h3>Backend:</h3> 
 
-<p>Next.js | HTML | CSS | JavaScript</p>
-<p>Администрирование Linux</p>
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_php.png?raw=true" width="45" valign="middle"/> <font size="50"><b>PHP</b></font> | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_java.png?raw=true" width="45" valign="middle"/> <font size="4"><b>Java</b></font> | 
+| :--- | :--- | :--- | :--- |
 
 
 
