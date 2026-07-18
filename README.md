@@ -13,6 +13,7 @@
 
 <h2>Стек</h2>
 <b>Frontend:</b> <br>
+
 | 🛠️ C++ | 🚀 Go | ☕ Java | 🐘 PHP | 🌐 JavaScript | 🦫 Assembly |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
