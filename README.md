@@ -24,7 +24,7 @@
 
 <h3>Database:</h3> 
 
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true" width="45" valign="middle"/> <font size="50"><b>MySQL</b></font> | <img src="https://ibb.co/9H6CvBjT" width="45" valign="middle"/> <font size="4"><b>PostgreSQL</b></font> | 
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true" width="45" valign="middle"/> <font size="50"><b>MySQL</b></font> | <img src="https://i.ibb.co/8gqSBGV5/image-81-1.png" width="45" valign="middle"/> <font size="4"><b>PostgreSQL</b></font> | 
 | :--- | :--- |
 
 
