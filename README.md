@@ -15,16 +15,10 @@
 <p>Next.js | HTML | CSS | JavaScript</p>
 <p>Администрирование Linux</p>
 
-<details open>
-<summary><b>🛠️ Мой технологический стек</b></summary>
-<br>
-
-| Языки | Фреймворки | Инструменты |
-| :--- | :--- | :--- |
-| C++ / Go / Java | Next.js / React | Git / Docker |
-| PHP / JavaScript | Node.js | OpenWrt / Nginx |
-
-</details>
+| 🛠️ Технологии | 🚀 Проекты |
+| :---: | :---: |
+| ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | **LunaVpn** (Telegram bot) |
+| ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | **Scooter Mapper** (Scraper) |
 
 <a href="https://www.behance.net/pashakarim" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" alt="Behance" width="30" style="vertical-align: middle; margin-left: 8px;" />
