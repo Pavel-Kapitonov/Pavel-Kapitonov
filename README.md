@@ -6,10 +6,10 @@
   <img src="https://i.postimg.cc/nzVd3h8p/Pablomain.jpg" width="1350"/>
 </div>
 
-<div align="center">
+<div align="">
 
 <h2>Кто я?</h2>
-<p>Я начинающий разработчик, получаю высшее образование на факультете компьюетрных технологий и прикладной математики.</p>
+<p>Я начинающий разработчик, получаю высшее образование на факультете компьютерных технологий и прикладной математики.</p>
 
 <h2>👨‍💻 Have work experience:</h2>
 <p>HTML | CSS | JavaScript<br>UI design | UX design</p>
