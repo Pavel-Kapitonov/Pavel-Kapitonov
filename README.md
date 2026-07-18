@@ -26,6 +26,8 @@
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true" width="45" valign="middle"/> <font size="50"><b>MySQL</b></font> | <img src="https://i.ibb.co/8gqSBGV5/image-81-1.png" width="37" valign="middle"/> <font size="4"><b>PostgreSQL</b></font> | 
 | :--- | :--- |
 
+<h4>Дополнительные умения, которые могут быть полезны:</h4>
+
 
 <a href="https://www.behance.net/pashakarim" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="Behance" width="30" style="vertical-align: middle; margin-left: 8px;" />
