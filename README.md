@@ -11,7 +11,7 @@
 <h2>Кто я?</h2>
 <p>Я начинающий разработчик, получаю высшее образование на факультете компьютерных технологий и прикладной математики.</p>
 
-<h2>👨‍💻 Have work experience:</h2>
+<h2>Стек</h2>
 <p>HTML | CSS | JavaScript<br>UI design | UX design</p>
 
 <a href="https://www.behance.net/pashakarim" target="_blank" rel="noopener noreferrer">
