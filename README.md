@@ -16,6 +16,7 @@
 <p>Администрирование Linux</p>
 
 <a href="https://www.behance.net/pashakarim" target="_blank" rel="noopener noreferrer">
+  <img src="[https://cdn-icons-png.flaticon.com/512/145/145799.png](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true)" alt="Behance" width="30" style="vertical-align: middle; margin-left: 8px;" />
   <img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="Behance" width="30" style="vertical-align: middle; margin-left: 8px;" />
 </a>
 
