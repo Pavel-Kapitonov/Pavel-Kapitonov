@@ -18,7 +18,7 @@
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true" width="20" valign="middle"/> Next.js | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" width="20" valign="middle"/> HTML | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true" width="20" valign="middle"/> CSS | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" width="20" valign="middle"/> JavaScript |
 | :--- | :--- | :--- | :--- |
 
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true" width="45" valign="middle"/> <h3>Next.js</h3> | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" width="45" valign="middle"/> <h3>HTML</h3> | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true" width="45" valign="middle"/> <h3>CSS</h3> | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" width="45" valign="middle"/> <h3>JavaScript</h3> |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true" width="45" valign="middle"/> Next.js | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" width="45" valign="middle"/> <h3>HTML</h3> | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true" width="45" valign="middle"/> <h3>CSS</h3> | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" width="45" valign="middle"/> <h3>JavaScript</h3> |
 | :--- | :--- | :--- | :--- |
 
 <p>Next.js | HTML | CSS | JavaScript</p>
