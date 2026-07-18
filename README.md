@@ -32,7 +32,9 @@
 | :--- | :--- | :--- | :--- |
 
 <span style="color: gray; font-weight: bold;">pavelkapitonov10@gmail.com</span>
-$${\color{gray}\textbf{\textsf{pavelkapitonov10@gmail.com}}}$$
+$\color{gray}\textbf{\textsf{pavel@gmail.com}}$
+
+$${\color{gray}\textbf{\textsf{Ваш жирный серый текст}}}$$
 <!--
 <a href="https://www.behance.net/pashakarim" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="Behance" width="30" style="vertical-align: middle; margin-left: 8px;" />
