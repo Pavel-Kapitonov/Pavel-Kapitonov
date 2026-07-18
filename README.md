@@ -15,6 +15,17 @@
 <p>Next.js | HTML | CSS | JavaScript</p>
 <p>Администрирование Linux</p>
 
+<details open>
+<summary><b>🛠️ Мой технологический стек</b></summary>
+<br>
+
+| Языки | Фреймворки | Инструменты |
+| :--- | :--- | :--- |
+| C++ / Go / Java | Next.js / React | Git / Docker |
+| PHP / JavaScript | Node.js | OpenWrt / Nginx |
+
+</details>
+
 <a href="https://www.behance.net/pashakarim" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" alt="Behance" width="30" style="vertical-align: middle; margin-left: 8px;" />
   <img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="Behance" width="30" style="vertical-align: middle; margin-left: 8px;" />
