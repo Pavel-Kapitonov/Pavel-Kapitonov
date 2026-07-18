@@ -32,7 +32,7 @@
 | :--- | :--- | :--- | :--- |
 
 <span style="color: gray; font-weight: bold;">pavelkapitonov10@gmail.com</span>
-$\color{gray}\textbf{\textsf{pavel@gmail.com}}$
+**`pavel@gmail.com`**
 
 $${\color{gray}\textbf{\textsf{Ваш жирный серый текст}}}$$
 <!--
