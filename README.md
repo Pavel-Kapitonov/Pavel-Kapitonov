@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a9ae6335-f7b6-490b-abc3-4ea01b668072" /><!--
+<!--
 **Pavel-Kapitonov/Pavel-Kapitonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
