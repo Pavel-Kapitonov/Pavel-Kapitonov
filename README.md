@@ -20,7 +20,7 @@
 <h3>Backend:</h3> 
 
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_php.png?raw=true" width="45" valign="middle"/> <font size="50"><b>PHP</b></font> | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_java.png?raw=true" width="45" valign="middle"/> <font size="4"><b>Java</b></font> | 
-| :--- | :--- | :--- | :--- |
+| :--- | :--- |
 
 
 
