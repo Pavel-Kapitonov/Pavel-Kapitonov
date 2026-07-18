@@ -32,7 +32,7 @@
 | :--- | :--- | :--- | :--- |
 <br>
 **Contact:** **`pavel@gmail.com`**
-**Связаться со мной:** **`pavel@gmail.com`**
+**Связаться со мной:** <code>pavel@gmail.com</code>
 
 <!--
 <a href="https://www.behance.net/pashakarim" target="_blank" rel="noopener noreferrer">
