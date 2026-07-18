@@ -2,6 +2,14 @@
 **Pavel-Kapitonov/Pavel-Kapitonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<!--
+<div id="header" align="center">
+  <img src="https://i.postimg.cc/nzVd3h8p/Pablomain.jpg" width="1350"/>
+</div>
+-->
+
+<img width="1920" height="408" alt="IMG_9299" src="https://github.com/user-attachments/assets/2f561f99-ad45-440e-a1d8-bdc316c039fb" />
+
 <div id="header" align="center">
   <img src="https://i.postimg.cc/nzVd3h8p/Pablomain.jpg" width="1350"/>
 </div>
