@@ -28,6 +28,9 @@
 
 <h4>Дополнительные умения, которые могут быть полезны:</h4>
 
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_linux.png?raw=true" width="20" valign="middle"/> Администрирование Linux | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" width="20" valign="middle"/> HTML | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true" width="20" valign="middle"/> CSS | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" width="20" valign="middle"/> JavaScript |
+| :--- | :--- | :--- | :--- |
+
 
 <a href="https://www.behance.net/pashakarim" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="Behance" width="30" style="vertical-align: middle; margin-left: 8px;" />
