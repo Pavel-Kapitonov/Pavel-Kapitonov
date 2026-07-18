@@ -8,8 +8,8 @@
 
 <div align="center">
 
-<h2>🔭 Currently exploring:</h2>
-<p>C++ | Java | Python | SQL</p>
+<h2>Кто я?</h2>
+<p>Я начинающий разработчик, получаю высшее образование на факультете компьюетрных технологий и прикладной математики.</p>
 
 <h2>👨‍💻 Have work experience:</h2>
 <p>HTML | CSS | JavaScript<br>UI design | UX design</p>
