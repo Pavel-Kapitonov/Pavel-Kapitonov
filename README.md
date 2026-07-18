@@ -28,7 +28,7 @@
 
 <h4>Дополнительные умения, которые могут быть полезны:</h4>
 
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_linux.png?raw=true" width="20" valign="middle"/> Администрирование Linux | Компьютерные сети (IP, TCP, UDP, HTTP) | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_figma.png?raw=true" width="20" valign="middle"/> UX/UI | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" width="20" valign="middle"/> JavaScript |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_linux.png?raw=true" width="20" valign="middle"/> Администрирование Linux | Компьютерные сети (IP, TCP, UDP, HTTP) | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_figma.png?raw=true" width="20" valign="middle"/> UX/UI | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true" width="20" valign="middle"/> Git |
 | :--- | :--- | :--- | :--- |
 
 
