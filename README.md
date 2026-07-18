@@ -1,4 +1,4 @@
-<!--
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a9ae6335-f7b6-490b-abc3-4ea01b668072" /><!--
 **Pavel-Kapitonov/Pavel-Kapitonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
@@ -9,6 +9,7 @@
 <div align="">
 
 <h3 align="center">Я начинающий разработчик, получаю высшее образование на факультете компьютерных технологий и прикладной математики.</h3>
+
 
 <h2>Стек</h2>
 <h3>Frontend:</h3> 
@@ -31,7 +32,7 @@
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_linux.png?raw=true" width="20" valign="middle"/> Администрирование Linux | Компьютерные сети (IP, TCP, UDP, HTTP) | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_figma.png?raw=true" width="20" valign="middle"/> UX/UI | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true" width="20" valign="middle"/> Git |
 | :--- | :--- | :--- | :--- |
 <br>
-<b>Связь:</b> <code>pavel@gmail.com</code>
+<b>Связь:</b> <code>pavelkapitonov10@gmail.com</code>
 
 <!--
 <a href="https://www.behance.net/pashakarim" target="_blank" rel="noopener noreferrer">
