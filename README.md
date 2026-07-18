@@ -15,7 +15,9 @@
 <p>Next.js | HTML | CSS | JavaScript</p>
 <p>Администрирование Linux</p>
 
-
+<p align="center">
+  <img src="./images/my-stats-table.svg" alt="Моя статистика и стек">
+</p>
 
 <a href="https://www.behance.net/pashakarim" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" alt="Behance" width="30" style="vertical-align: middle; margin-left: 8px;" />
