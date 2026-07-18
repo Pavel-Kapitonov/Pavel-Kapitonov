@@ -18,8 +18,8 @@
 
 <h3>Backend:</h3> 
 
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_php.png?raw=true" width="45" valign="middle"/> <font size="50"><b>PHP</b></font> | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_java.png?raw=true" width="45" valign="middle"/> <font size="4"><b>Java</b></font> | 
-| :--- | :--- |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_php.png?raw=true" width="45" valign="middle"/> <font size="50"><b>PHP</b></font> | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_java.png?raw=true" width="45" valign="middle"/> <font size="4"><b>Java</b></font> | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_cpp.png?raw=true" width="45" valign="middle"/> <font size="4"><b>С++</b></font> | 
+| :--- | :--- | :--- |
 
 <h3>Database:</h3> 
 
@@ -28,7 +28,7 @@
 
 <h4>Дополнительные умения, которые могут быть полезны:</h4>
 
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_linux.png?raw=true" width="20" valign="middle"/> Администрирование Linux | Компьютерные сети (IP, TCP, UDP, HTTP) | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_figma.png?raw=true" width="20" valign="middle"/> UI/UX | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" width="20" valign="middle"/> JavaScript |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_linux.png?raw=true" width="20" valign="middle"/> Администрирование Linux | Компьютерные сети (IP, TCP, UDP, HTTP) | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_figma.png?raw=true" width="20" valign="middle"/> UX/UI | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" width="20" valign="middle"/> JavaScript |
 | :--- | :--- | :--- | :--- |
 
 
