@@ -12,11 +12,7 @@
 <p>Я начинающий разработчик, получаю высшее образование на факультете компьютерных технологий и прикладной математики.</p>
 
 <h2>Стек</h2>
-<b>Frontend:</b> <br>
-
-
-| <h3><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true" width="45" valign="middle"/> Next.js</h3> | <h3><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" width="45" valign="middle"/> HTML</h3> | <h3><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true" width="45" valign="middle"/> CSS</h3> | <h3><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" width="45" valign="middle"/> JavaScript</h3> |
-| :--- | :--- | :--- | :--- |
+<h3>Frontend:</h3> 
 
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true" width="45" valign="middle"/> <font size="50"><b>Next.js</b></font> | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" width="45" valign="middle"/> <font size="4"><b>HTML</b></font> | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true" width="45" valign="middle"/> <font size="4"><b>CSS</b></font> | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" width="45" valign="middle"/> <font size="4"><b>JavaScript</b></font> |
 | :--- | :--- | :--- | :--- |
