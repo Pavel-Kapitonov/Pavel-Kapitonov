@@ -22,10 +22,13 @@
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_php.png?raw=true" width="45" valign="middle"/> <font size="50"><b>PHP</b></font> | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_java.png?raw=true" width="45" valign="middle"/> <font size="4"><b>Java</b></font> | 
 | :--- | :--- |
 
+<h3>Database:</h3> 
+
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true" width="45" valign="middle"/> <font size="50"><b>MySQL</b></font> | <img src="https://user-images.githubusercontent.com/206748/47260428-c1313300-d4bb-11e8-97a6-f52538951811.png" width="45" valign="middle"/> <font size="4"><b>PostgreSQL</b></font> | 
+| :--- | :--- |
 
 
 <a href="https://www.behance.net/pashakarim" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" alt="Behance" width="30" style="vertical-align: middle; margin-left: 8px;" />
   <img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="Behance" width="30" style="vertical-align: middle; margin-left: 8px;" />
 </a>
 
