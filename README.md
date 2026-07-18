@@ -14,7 +14,7 @@
 <h2>Стек</h2>
 <b>Frontend:</b> <br>
 
-| 🛠️ C++ | 🚀 Go | ☕ Java | 🐘 PHP | 🌐 JavaScript | 🦫 Assembly |
+| Next.js | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" alt="Behance" width="30" style="vertical-align: middle; margin-left: 8px;" /> HTML | CSS | JavaScript |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
 <p>Next.js | HTML | CSS | JavaScript</p>
