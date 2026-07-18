@@ -10,10 +10,6 @@
 
 <img width="1920" height="408" alt="IMG_9299" src="https://github.com/user-attachments/assets/2f561f99-ad45-440e-a1d8-bdc316c039fb" />
 
-<div id="header" align="center">
-  <img src="https://i.postimg.cc/nzVd3h8p/Pablomain.jpg" width="1350"/>
-</div>
-
 <div align="">
 
 <h3 align="center">Я начинающий разработчик, получаю высшее образование на факультете компьютерных технологий и прикладной математики.</h3>
