@@ -17,6 +17,9 @@
 | Next.js | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" alt="Behance" width="30" style="vertical-align: middle; margin-left: 8px;" /> HTML | CSS | JavaScript |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
+| <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/nextjs.png?raw=true" width="20" valign="middle"/> Next.js | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" width="20" valign="middle"/> HTML | <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/css.png?raw=true" width="20" valign="middle"/> CSS | <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/javascript.png?raw=true" width="20" valign="middle"/> JavaScript |
+| :--- | :--- | :--- | :--- |
+
 <p>Next.js | HTML | CSS | JavaScript</p>
 <p>Администрирование Linux</p>
 
